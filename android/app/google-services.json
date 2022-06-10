@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465316777692",
+    "project_id": "rms-store",
+    "storage_bucket": "rms-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465316777692:android:97c35240171f203101ee19",
+        "android_client_info": {
+          "package_name": "com.example.rmsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465316777692-r4qmsv0qde60ghngdigqh8vq12ugsm2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXK20ktpPb59cWklXg6HV66cpw7vkhESs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465316777692-r4qmsv0qde60ghngdigqh8vq12ugsm2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
